@@ -4,12 +4,15 @@ This folder contains audio recordings generated during testing of the Home Credi
 
 ## Recordings
 
-1. `retell_call_bf7a64e3e0c45d94f5f1a8db592.wav`
-2. `retell_call_c8740df6216899e49758394897c.wav`
-3. `retell_call_5de9c1d94eba1f8a0cf099732d7.wav`
-4. `retell_call_f7abda0e3325c6e31ca39792ca9.wav`
-5. `retell_call_9c98847ae34d28ae66b7ef819c1.wav`
-6. `retell_call_933ec7fe18a87d6f7b334ac1305.wav`
+Home Credit LAP Voice Agent — Call Evidence
+This document contains six Retell AI call recording links for the Home Credit Loan Against Property (LAP) Qualification Voice Agent project.
+Call Recordings
+ttps://drive.google.com/file/d/1ZNVt4YYKuoMy4bXg-dgAn1QPt2JuaSJm/view?usp=drive_link,
+https://drive.google.com/file/d/1C8yik_ahapigBYf392HsQRpKHsdH9azt/view?usp=drive_link, 
+https://drive.google.com/file/d/1rkwwk5o8O4owPiDFP22OuS3pWs-ESM9w/view?usp=drive_link,
+https://drive.google.com/file/d/1HvJmivfZTILmimFO-7OS9Ios0OWjNOEi/view?usp=drive_link, 
+https://drive.google.com/file/d/177mYZjjnKftt1PBcfTLou-KxUjGsn3Jk/view?usp=drive_link, 
+https://drive.google.com/file/d/1HtkYL8ktbyNGBDqO0FPgqm1FZstUAAM_/view?usp=drive_link
 
 Each recording should be matched to its actual test scenario using the corresponding Retell AI call history and transcript.
 
