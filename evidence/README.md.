@@ -1,6 +1,20 @@
-"C:\Users\ASUS\Downloads\retell_call_bf7a64e3e0c45d94f5f1a8db592.wav"
-"C:\Users\ASUS\Downloads\retell_call_c8740df6216899e49758394897c.wav"
-"C:\Users\ASUS\Downloads\retell_call_5de9c1d94eba1f8a0cf099732d7.wav"
-"C:\Users\ASUS\Downloads\retell_call_f7abda0e3325c6e31ca39792ca9.wav"
-"C:\Users\ASUS\Downloads\retell_call_9c98847ae34d28ae66b7ef819c1.wav"
-"C:\Users\ASUS\Downloads\retell_call_933ec7fe18a87d6f7b334ac1305.wav"
+# Retell AI Call Evidence
+
+This folder contains audio recordings generated during testing of the Home Credit Loan Against Property Qualification Voice Agent.
+
+## Recordings
+
+1. `retell_call_bf7a64e3e0c45d94f5f1a8db592.wav`
+2. `retell_call_c8740df6216899e49758394897c.wav`
+3. `retell_call_5de9c1d94eba1f8a0cf099732d7.wav`
+4. `retell_call_f7abda0e3325c6e31ca39792ca9.wav`
+5. `retell_call_9c98847ae34d28ae66b7ef819c1.wav`
+6. `retell_call_933ec7fe18a87d6f7b334ac1305.wav`
+
+Each recording should be matched to its actual test scenario using the corresponding Retell AI call history and transcript.
+
+## Related Project Files
+
+- `../README.md` — Project overview
+- `../system_prompt.txt` — Voice agent System Prompt
+- `../test_cases.md` — Test scenarios and expected behavior
